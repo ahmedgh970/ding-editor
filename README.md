@@ -1,7 +1,7 @@
 # DInG-Editor
 
 <p align="left">
-<a href='https://badr-moufad.github.io/ding-editor'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+<a href='https://ahmedgh970.github.io/ding-editor'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <a href="https://arxiv.org/abs/2602.14157"><img src="https://img.shields.io/badge/arXiv-2602.14157-b31b1b.svg"></a> &nbsp;
 </p>
 
@@ -195,7 +195,7 @@ DInG is is part of a series of publications that explore training-free approach 
   year={2026}
 }
 
-@article{ghorbal2026ding-editor,
+@article{ghorbel2026ding-editor,
   title={When Test-Time Guidance Is Enough:
          Fast Image and Video Editing with Diffusion Guidance},
   author={Ghorbel, Ahmed and Moufad, Badr and Shouraki, Navid Bagheri 
